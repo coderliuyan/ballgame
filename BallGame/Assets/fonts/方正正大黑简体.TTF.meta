@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a274795add6d978438371eba9c22179e
+timeCreated: 1505879184
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZZhengHeiS-EB-GB
+  fontNames:
+  - FZZhengHeiS-EB-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
